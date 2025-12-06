@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # === CONFIGURATION ===
-SSH_PUBLIC_KEY="ssh-ed25519 AAAA... your-key-here"
+SSH_PUBLIC_KEY="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICdRA0uJzU//4YNgMagVBjIHaX8961nTv0Os8bnF831P daniel@Daniel-PC"
 ADMIN_USER="deploy"
 SSH_PORT="88"
 TIMEZONE="Africa/Johannesburg"
